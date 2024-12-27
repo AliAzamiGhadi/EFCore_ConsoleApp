@@ -1,2 +1,2 @@
 ﻿// EF CORE
-Console.WriteLine("aa");
+Console.WriteLine("aa"); 
