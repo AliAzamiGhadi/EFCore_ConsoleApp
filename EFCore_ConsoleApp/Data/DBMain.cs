@@ -10,7 +10,7 @@ namespace EFCore_ConsoleApp.Data
     public class DBMain:DbContext
     {
         //Add DbSets
-        public DbSet<Person> People { get; set; }
+        public DbSet<Person> People { get; set; } 
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
